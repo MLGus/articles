@@ -51,7 +51,7 @@ Porque é:
 
 - 💻 Amigável para desenvolvedores e gestores  
 - 🧠 Fácil de versionar com Git  
-- 📦 Leve, flexível e funciona com Obsidian, VSCode, Notion, GitHub
+- 📦 Leve, flexível e funciona com Obsidian, VSCode, GitHub, Joplin, etc.
 
 ---
 
@@ -61,4 +61,7 @@ Essa é só a primeira versão. Se você tiver ideias, frameworks ou templates q
 
 > 📬 Forka, estrela, adapta, compartilha. Vamos construir melhores começos.
 
-#opensource #gestaodeprojetos #startsmart #markdown #estrategia #documentacao
+💡 Caso eu tenha deixado de abordar algum ponto ou se você quiser se aprofundar mais no Start Smart e seus recursos, fique à vontade para deixar um comentário ou entrar em contato (no X, Medium, Substack ou LinkedIn) — vamos conversar! 🚀
+
+#opensource #projetos #pmi #agile #gestaodeprojetos #startsmart #markdown 
+#documentacao #estrategia #gestao
