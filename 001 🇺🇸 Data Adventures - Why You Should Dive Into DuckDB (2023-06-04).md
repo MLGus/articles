@@ -1,4 +1,4 @@
-#article #FirstArticle #duckdb #bairesdev
+#article #firstArticle #duckdb #bairesdev
 
 ---
 Originally published in: https://www.bairesdev.com/blog/data-why-you-should-dive-into-duckdb/
